@@ -19,7 +19,6 @@ describe("Row.vue", () => {
     see(props.date);
     see(props.amount);
     see(props.type);
-    see("AHHHHH!");
   });
 });
 
